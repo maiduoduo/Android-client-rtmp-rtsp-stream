@@ -1,0 +1,26 @@
+apply plugin: 'com.android.library'
+apply plugin: 'com.github.dcendents.android-maven'
+group = 'com.github.pedroSG94'
+
+android {
+  compileSdkVersion 29
+
+  defaultConfig {
+    minSdkVersion 16
+    targetSdkVersion 29
+    versionCode 183
+    versionName "1.8.3"
+  }
+  buildTypes {
+    release {
+      minifyEnabled false
+      consumerProguardFiles 'proguard-rules.pro'
+    }
+  }
+}
+
+dependencies {
+  api project(':encoder')
+  api project(':rtmp')
+  api project(':rtsp')
+}

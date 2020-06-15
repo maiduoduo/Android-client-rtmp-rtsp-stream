@@ -1,0 +1,22 @@
+apply plugin: 'com.android.library'
+apply plugin: 'com.github.dcendents.android-maven'
+group = 'com.github.pedroSG94'
+
+android {
+  compileSdkVersion 28
+
+  defaultConfig {
+    minSdkVersion 16
+    targetSdkVersion 28
+    versionCode 183
+    versionName "1.8.3"
+  }
+  buildTypes {
+    release {
+      minifyEnabled false
+      consumerProguardFiles 'proguard-rules.pro'
+    }
+  }
+}
+
+dependencies {}
