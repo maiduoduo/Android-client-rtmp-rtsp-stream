@@ -11,9 +11,12 @@
 ## 二.最终结果
 
 考虑到开源编译定制，后面选择了下面的搭配：\n
- 服务端：[https://github.com/EasyDarwin/EasyDarwin](https://links.jianshu.com/go?to=https%3A%2F%2Fgithub.com%2FEasyDarwin%2FEasyDarwin) \n
+
+
+ 服务端：[https://github.com/EasyDarwin/EasyDarwin](https://links.jianshu.com/go?to=https%3A%2F%2Fgithub.com%2FEasyDarwin%2FEasyDarwin) 
+ 
  推流端：[https://github.com/maiduoduo/Android-client-rtmp-rtsp-stream](https://github.com/maiduoduo/Android-client-rtmp-rtsp-streama) \n
- 客户端：VLC \n
+ 客户端：VLC 
 
 
 
