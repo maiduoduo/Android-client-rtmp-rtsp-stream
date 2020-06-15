@@ -1,9 +1,12 @@
 # Android-client-rtmp-rtsp-stream
 
 ## 运行测试环境(成功编译)
-AndroidStudio3.0+
-    gradle:4.6+n
-Android 10  API29
+
+* AndroidStudio3.0+
+
+    gradle:4.6+
+    
+* Android 10  API29
 
 ## 一.RTSP框架似乎很少
 
