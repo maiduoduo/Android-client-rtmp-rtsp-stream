@@ -1,4 +1,4 @@
-# rtmp-rtsp-stream-client-java
+# Android-client-rtmp-rtsp-stream
 
 ## 一.RTSP框架似乎很少
 
