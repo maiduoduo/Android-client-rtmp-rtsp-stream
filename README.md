@@ -1,5 +1,10 @@
 # Android-client-rtmp-rtsp-stream
 
+## 运行测试环境(成功编译)
+AndroidStudio3.0+
+    gradle:4.6+n
+Android 10  API29
+
 ## 一.RTSP框架似乎很少
 
 试着搭建RTSP直播的框架，发现可参考RTSP的直播框架很少。
